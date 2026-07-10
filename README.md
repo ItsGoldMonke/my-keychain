@@ -7,6 +7,7 @@ I made it using figma for designing the keychain and then making the cad model w
 The keychain.step file is supposed to ~look like this: 
 
 Top:
+
 ![Top view](top.png)
 
 Side (Front):
